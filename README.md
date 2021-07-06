@@ -1,7 +1,7 @@
 ember-casl
 ==============================================================================
 
-[Short description of the addon.]
+This package allows to integrate `@casl/ability` with [Ember](https://emberjs.com/) application.
 
 
 Compatibility
