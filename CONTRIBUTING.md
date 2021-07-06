@@ -2,7 +2,7 @@
 
 ## Installation
 
-* `git clone <repository-url>`
+* `git clone https://github.com/concordnow/ember-casl`
 * `cd ember-casl`
 * `npm install`
 
