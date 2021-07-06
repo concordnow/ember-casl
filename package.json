@@ -1,13 +1,18 @@
 {
   "name": "ember-casl",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon for CASL which makes it easy to add permissions in any Ember application",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "casl",
+    "authorization",
+    "acl",
+    "permissions",
+    "ember"
   ],
-  "repository": "",
+  "repository": "https://github.com/concordnow/ember-casl",
   "license": "MIT",
-  "author": "",
+  "author": "Concord Worlwide Inc.",
   "directories": {
     "doc": "doc",
     "test": "tests"
