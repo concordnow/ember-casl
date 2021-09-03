@@ -7,9 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2021-09-03
+
 ### Added
 
 - First implementation
 
 
-[Unreleased]: https://github.com/concordnow/ember-casl/compare/null...HEAD
+[Unreleased]: https://github.com/concordnow/ember-casl/compare/v0.1.0...HEAD
+
+[0.1.0]: https://github.com/concordnow/ember-casl/compare/null...v0.1.0
