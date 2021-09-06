@@ -1,6 +1,9 @@
 ember-casl
 ==============================================================================
 
+[![Build Status](https://github.com/concordnow/ember-casl/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/concordnow/ember-casl/actions/workflows/main.yml)
+[![Ember Observer Score](https://emberobserver.com/badges/ember-casl.svg)](https://emberobserver.com/addons/ember-casl)
+
 Ember addon for [CASL](https://github.com/stalniy/casl) which makes it easy to add permissions in any Ember application.
 
 This package allows to integrate `@casl/ability` with [Ember](https://emberjs.com/) application.
