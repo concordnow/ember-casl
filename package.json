@@ -1,6 +1,6 @@
 {
   "name": "ember-casl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ember addon for CASL which makes it easy to add permissions in any Ember application",
   "keywords": [
     "ember-addon",

@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] -
+* 2e4578d Bump webpack from 5.51.2 to 5.52.0
+* 1313f01 Bump release-it from 14.10.0 to 14.11.5
+
 ## [0.1.0] - 2021-09-03
 
 ### Added
