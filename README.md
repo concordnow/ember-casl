@@ -86,7 +86,7 @@ export default class Dummy Component extends Component {
   }
 
   get cannotWriteReason() {
-    return this.postAbility.relevantRuleFor('read', 'post').reason;
+    return this.postAbility.relevantRuleFor('write', 'post').reason;
   }
 }
 ```
