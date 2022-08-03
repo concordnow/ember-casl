@@ -89,5 +89,8 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
+  },
+  "overrides": {
+    "ember-source": "$ember-source"
   }
 }
