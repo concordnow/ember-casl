@@ -78,7 +78,7 @@ Then you can use those abilities as regular services in your Ember application.
 import Component from '@glimmer/component';
 import { inject as service } from '@ember/service';
 
-export default class Dummy Component extends Component {
+export default class DummyComponent extends Component {
   @service postAbility;
 
   get canRead() {
