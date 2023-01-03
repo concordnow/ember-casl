@@ -10,7 +10,8 @@ module.exports = async function () {
         name: 'ember-lts-3.20',
         npm: {
           devDependencies: {
-            'ember-source': '~3.20.5',
+            'ember-source': '~3.20.7',
+            'ember-qunit': '^5.1.5',
           },
         },
       },
@@ -19,6 +20,7 @@ module.exports = async function () {
         npm: {
           devDependencies: {
             'ember-source': '~3.24.3',
+            'ember-qunit': '^5.1.5',
           },
         },
       },
@@ -56,6 +58,7 @@ module.exports = async function () {
         npm: {
           devDependencies: {
             '@ember/jquery': '^1.1.0',
+            'ember-qunit': '^5.1.5',
           },
         },
       },
@@ -69,13 +72,28 @@ module.exports = async function () {
           }),
         },
         npm: {
+          devDependencies: {
+            'ember-qunit': '^5.1.5',
+          },
           ember: {
             edition: 'classic',
           },
         },
       },
-      embroiderSafe(),
-      embroiderOptimized(),
+      embroiderSafe({
+        npm: {
+          devDependencies: {
+            'ember-qunit': '^5.1.5',
+          },
+        },
+      }),
+      embroiderOptimized({
+        npm: {
+          devDependencies: {
+            'ember-qunit': '^5.1.5',
+          },
+        },
+      }),
     ],
   };
 };
